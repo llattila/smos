@@ -2,3 +2,7 @@
     display: block;
     position: relative;
 }
+
+.xterm .xterm-viewport {
+    overflow-y: hidden !important;
+}
